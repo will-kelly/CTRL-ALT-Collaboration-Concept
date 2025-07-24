@@ -114,6 +114,3 @@ Make users part of the solution:
 Confluence doesn't fail because it's bad software. It fails because content governance was never part of the setup.  
 **CTRL+ALT Confluence** is your reset button. Use it wisely—and reclaim the value your wiki was supposed to deliver.
 
----
-
-Want to turn this framework into a Notion template, PDF, or editable deck? Open an issue or drop a request.
